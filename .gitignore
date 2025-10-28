@@ -1,0 +1,13 @@
+# Node dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment files
+.env
+
+# Docker volumes
+pgdata/
+

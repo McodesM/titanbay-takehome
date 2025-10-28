@@ -1,0 +1,7 @@
+export interface Investor{
+    id: string;
+    name: string;
+    investor_type: string;
+    email: string;
+    created_at: Date;
+}
