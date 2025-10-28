@@ -7,20 +7,6 @@
 
 ---
 
-## How to Run the Server
-
-```bash
-# 1. Install dependencies
-npm i
-
-# 2. Build the project
-npm run build
-
-# 3. Start the server
-npm start
-
----
-```
 ## How to Run the Db
 
 ```bash
@@ -37,4 +23,19 @@ npm run db:schema
 # 1. Shutdown PostgreSQL in Docker
 npm run db:down
 
+```
+
+## How to Run the Server
+
+```bash
+# 1. Install dependencies
+npm i
+
+# 2. Build the project
+npm run build
+
+# 3. Start the server
+npm start
+
+---
 ```
