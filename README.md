@@ -20,16 +20,21 @@ npm run build
 npm start
 
 ---
-
+```
 ## How to Run the Db
 
+```bash
 # 1. Start PostgreSQL in Docker
 npm run db:up
 
 # 2. Apply schema
 npm run db:schema
 
+```
 ## Shutting db down
 
+```bash
 # 1. Shutdown PostgreSQL in Docker
 npm run db:down
+
+```
